@@ -1,3 +1,7 @@
 venv
 
-data/
+raw_data/
+
+__pycache__
+
+datasets/*
